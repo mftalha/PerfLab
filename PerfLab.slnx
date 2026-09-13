@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PerfLab.Benchmarks/PerfLab.Benchmarks.csproj" />
+  <Project Path="PerfLab.Core/PerfLab.Core.csproj" />
+</Solution>
